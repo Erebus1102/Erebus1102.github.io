@@ -1,4 +1,4 @@
-baseURL = "https://erebus1102.github.io"
+baseURL = "https://erebus1102.github.io/quartz"
 languageCode = "zh-CN"
 relativeURLs = false
 disablePathToLower = true
