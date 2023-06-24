@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "content/Image"
+  "attachmentFolderPath": "content/Image",
+  "showUnsupportedFiles": true
 }
