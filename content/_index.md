@@ -26,12 +26,13 @@ enableToc: false
 - **加密货币及加密货币交易相关**。大部分来自我在 [Gryphsis Academy](https://twitter.com/gryphsisacademy) 的学习笔记与总结（如果我被 Kick 掉了我也努力更完）：
 	-  [[content/Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy|1. 研报攥写与估值 Analysis Report Writing and Valuation Academy]]
 	-  [[content/Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips|2. 深入理解蓝筹协议 Exploring Defi Blue Chips]]
-	-  [[content/Crypto/3. 蜡烛图与技术分析Candlestick chart Technical Analysis|3. 蜡烛图与技术分析Candlestick chart Technical Analysis]]
+	-  [[content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis|3. 蜡烛图与技术分析 Candlestick chart Technical Analysis]]
 	-  [[content/Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain|4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain]]
 - **商业战略、产品思维相关**。产品部分来源于[纯银老师的产品思维](https://www.jianshu.com/u/c22ccc510fb9)分享，战略部分来源于我的个人工作总结：
+
 - **Python 开发相关**。短期目标（指今年）是刷完 [代码随想录](https://github.com/youngyangyang04/leetcode-master)（奔三了开始学做程序员）：
 - **生活相关**的一些杂七杂八杂谈，可能包括日记、读书笔记 balabalabala：
-	- [[content/Crypto/5. 个人笔记|5. 个人笔记]]
+	
 
 最后，希望我能坚持写下来吧。毕竟产出是很重要的，而且我也没什么事情做。
 

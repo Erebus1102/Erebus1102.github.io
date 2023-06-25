@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/About Sex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/About Sex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/About Sex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/About Sex.md"
               }
             }
           }
@@ -146,20 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "07b3404648f1786f",
+  "active": "6fd120548f27e7f4",
   "lastOpenFiles": [
-    "data/config.yaml.sb-c04152d5-ywBP5j",
-    "content/Crypto/3. 蜡烛图与技术分析Candlestick chart Technical Analysis.md",
-    "content/_index.md",
-    "content/templates/post.md",
-    "content/Crypto/5. 个人笔记.md",
-    "content/Crypto/0. 常见名词对照表.md",
-    "content/Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
-    "content/notes/obsidian.md",
-    "content/Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
-    "content/Crypto/Stablecoin and Lending Protocols 稳定币与借贷需求.md",
-    "content/Crypto/算法稳定币.md",
+    "content/Crypto/稳定币与借贷需求 Stablecoin and Lending Protocols.md",
     "content/Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
+    "content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
+    "content/Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
+    "content/Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
+    "content/_index.md",
+    "data/config.yaml.sb-c04152d5-ywBP5j",
+    "content/templates/post.md",
+    "content/notes/About Sex.md",
+    "content/Crypto/0. 常见名词对照表.md",
+    "content/notes/obsidian.md",
+    "content/Crypto/算法稳定币.md",
     "content/Image/截屏2023-06-20 15.31.21.png",
     "content/Image"
   ]
