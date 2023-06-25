@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/_index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -138,25 +138,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "07b3404648f1786f",
   "lastOpenFiles": [
+    "data/config.yaml.sb-c04152d5-ywBP5j",
     "content/Crypto/3. 蜡烛图与技术分析Candlestick chart Technical Analysis.md",
-    "content/Crypto/0. 常见名词对照表.md",
-    "content/Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
     "content/_index.md",
+    "content/templates/post.md",
+    "content/Crypto/5. 个人笔记.md",
+    "content/Crypto/0. 常见名词对照表.md",
+    "content/Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
+    "content/notes/obsidian.md",
+    "content/Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
     "content/Crypto/Stablecoin and Lending Protocols 稳定币与借贷需求.md",
     "content/Crypto/算法稳定币.md",
-    "content/Crypto/5. 个人笔记.md",
     "content/Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
-    "content/Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
     "content/Image/截屏2023-06-20 15.31.21.png",
     "content/Image"
   ]
