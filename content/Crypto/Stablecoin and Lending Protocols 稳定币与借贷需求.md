@@ -1,7 +1,9 @@
 ---
 title: "Example Title"
 tags:
-- example-tag
+- Web 3.0
+- Crypto
+- Financial Transaction
 ---
 ## 稳定币是什么
 
