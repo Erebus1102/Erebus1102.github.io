@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "07b3404648f1786f",
   "lastOpenFiles": [
+    "content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
     "content/About Sex.md",
     "content/_index.md",
-    "content/Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
     "content/Crypto/稳定币与借贷需求 Stablecoin and Lending Protocols.md",
     "content/Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
     "content/templates/post.md",

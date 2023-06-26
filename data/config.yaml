@@ -1,18 +1,34 @@
+# 在页脚中显示的名称/名字
 name: Erebus
+# 是否在每个页面上显示全局目录
 enableToc: true
+# 是否默认打开或关闭每个页面的目录
 openToc: false
+# 是否显示悬停链接预览卡片
 enableLinkPreview: true
+# 是否支持Latex
 enableLatex: true
+# 是否渲染代码块标题
 enableCodeBlockTitle: true
+# 是否渲染代码块复制功能
 enableCodeBlockCopy: true
+# 是否渲染Callout高亮块
 enableCallouts: true
+# 是否启用单页应用程序样式渲染
 enableSPA: true
+# 是否渲染页脚
 enableFooter: true
+# 页面的backlinks是否应显示对应的上下文
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
+# 是否在主页显示最近笔记
+enableRecentNotes: true
+# 是否在最后编辑字段旁边显示“编辑”按钮，该按钮链接到 GitHub
+enableGitHubEdit: false
+# 是否渲染 Mermaid 图表
 enableMermaid: true
+# GithubLink
 GitHubLink: https://github.com/Erebus1102/erebus1102.github.io/tree/hugo/content
+# 是否使用 Operand 来支持语义搜索
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
