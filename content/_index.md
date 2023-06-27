@@ -25,7 +25,7 @@ enableToc: false
 在这里感谢: [oldwinter](https://notes.oldwinter.top) [jackyzha0]( https://github.com/jackyzha0 ) 的文章、项目与案例提供的帮助
 
 # On short-run goals ｜ 关于短期的计划
->[! INFO] 开始挖坑
+>[!Info] 开始挖坑
 >	搞得好像之前 Wordpress 和 Hexo 没写下去是因为方案不好用，本质不是懒？
 >	 🫥  希望这次不一样，如果养成习惯的话会考虑使用 Vercel 进行自动托管
 
