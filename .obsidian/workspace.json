@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +157,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1e463ccf433847ff",
+  "active": "1eafb4d59bd74b6a",
   "lastOpenFiles": [
+    "content/1-Crypto/0. Crypto Index.md",
     "content/1-Crypto/稳定币与借贷需求 Stablecoin and Lending Protocols.md",
     "content/1-Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
     "content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
     "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
     "content/1-Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
-    "content/1-Crypto/0. Crypto Index.md",
     "content/_index.md",
     "content/2-Strategy/0. Product&Strategy Index.md",
     "Pasted image 20230627130421.png",
