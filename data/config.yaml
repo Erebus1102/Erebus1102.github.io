@@ -21,7 +21,7 @@ enableFooter: true
 # 页面的backlinks是否应显示对应的上下文
 enableContextualBacklinks: true
 # 是否在主页显示最近笔记
-enableRecentNotes: true
+enableRecentNotes: false
 # 是否在最后编辑字段旁边显示“编辑”按钮，该按钮链接到 GitHub
 enableGitHubEdit: false
 # 是否渲染 Mermaid 图表
