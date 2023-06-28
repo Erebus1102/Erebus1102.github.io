@@ -6,9 +6,11 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
+paginate = 10
 summaryLength = 20
 paginate = 10
 enableGitInfo = true
+title = "🎶The Hideout"
 
 [markup]
     [markup.tableOfContents]
@@ -25,7 +27,7 @@ enableGitInfo = true
         lineNoStart = 1
         lineNos = true
         lineNumbersInTable = true
-        style = "dracula"
+        style = "Minimal"
     [frontmatter]
         lastmod = ["lastmod", ":git", "date", "publishDate"]
         publishDate = ["publishDate", "date"]
