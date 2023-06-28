@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "content/Image",
+  "attachmentFolderPath": "content/notes/images",
   "showUnsupportedFiles": true,
   "promptDelete": false
 }
