@@ -27,7 +27,7 @@ title = "🎶The Hideout"
         lineNoStart = 1
         lineNos = true
         lineNumbersInTable = true
-        style = "Minimal"
+        style = "dracula"
     [frontmatter]
         lastmod = ["lastmod", ":git", "date", "publishDate"]
         publishDate = ["publishDate", "date"]
