@@ -29,7 +29,7 @@ enableToc: false
 > - 搞得好像之前 Wordpress 和 Hexo 没写下去是因为方案不好用，本质不是懒？
 > - 🫥  希望这次不一样，如果养成习惯的话会考虑使用 Vercel 进行自动托管
 
-- **加密货币及加密货币交易相关：** [[content/1-Crypto/0. Crypto Index|0. Crypto Index]]     
+- **加密货币及加密货币交易相关：** [[content/1-Crypto/0. Crypto Index|Crypto Index]]     
 	**Tag：** Web 3.0、Crypto、Financial Transaction
 
 - **战略、产品相关：** [[content/2-Strategy/0. Product&Strategy Index|0. Product&Strategy Index]]     
