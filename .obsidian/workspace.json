@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
+                "file": "content/3-Code/python爬虫库的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
+                "file": "content/3-Code/python爬虫库的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
+                "file": "content/3-Code/python爬虫库的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md"
+                "file": "content/3-Code/python爬虫库的使用.md"
               }
             }
           }
@@ -152,40 +153,46 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
   "active": "1eafb4d59bd74b6a",
   "lastOpenFiles": [
+    "content/3-Code/python爬虫前，抓包.md",
+    "content/3-Code/python爬虫库的使用.md",
+    "content/2-Strategy/2. 项目启动汇报技巧及阶段性汇报技巧.md",
+    "content/2-Strategy/0. Product&Strategy Index.md",
+    "content/3-Code/0. Coding Index.md",
+    "未命名.md",
+    "content/4-Life/Read/原则：应对变化中的世界秩序.md",
+    "content/4-Life/Read/可能性的艺术：比较政治学30讲.md",
+    "content/4-Life/Read/0-微信读书.md",
+    "content/_index.md",
+    "content/1-Crypto/Research - NFT借贷赛道行业研究报告.md",
+    "content/4-Life/Read",
+    "content/1-Crypto/0. Crypto Index.md",
+    "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
+    "content/4-Life/0. Life Index.md",
+    "content/4-Life/About Sex.md",
+    "Pasted image 20230627130421.png",
+    "screenshot.png",
+    "README.md",
+    "content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
+    "content/notes/images/Pasted image 20230702125611.png",
+    "content/notes/images/Pasted image 20230702125445.png",
     "content/notes/images/Pasted image 20230702124352.png",
     "content/notes/images/Pasted image 20230702124337.png",
     "content/notes/images/Pasted image 20230702124236.png",
     "content/1-Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
-    "content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
     "content/1-Crypto/2. 稳定币与借贷需求 Stablecoin and Lending Protocols.md",
     "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
     "content/1-Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
-    "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
-    "content/1-Crypto/0. Crypto Index.md",
-    "content/_index.md",
-    "content/2-Strategy/0. Product&Strategy Index.md",
-    "content/4-Life/0. Life Index.md",
     "content/2-Strategy/1. 企业基金会战略文档搭建框架与迭代思路.md",
-    "content/2-Strategy/2. 项目启动汇报技巧及阶段性汇报技巧.md",
-    "content/3-Code/0. Coding Index.md",
-    "Pasted image 20230627130421.png",
     "content/1-Crypto/Ref - 常见名词对照表.md",
     "content/notes/callouts.md",
     "content/notes/preview changes.md",
     "content/notes/hosting.md",
-    "content/notes/editing.md",
-    "content/notes/obsidian.md",
-    "content/notes/ignore notes.md",
-    "content/notes/custom Domain.md",
-    "content/notes/docker.md",
-    "content/notes/config.md",
-    "content/notes/updating.md",
-    "content/notes/troubleshooting.md",
     "content/4-Life",
     "content/2-Strategy",
     "content/3-Code",
