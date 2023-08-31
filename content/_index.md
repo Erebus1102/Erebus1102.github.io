@@ -38,7 +38,7 @@ enableToc: false
 - **技术相关：**[[content/3-Code/0. Coding Index|0. Coding Index]]      
 	**Tag：** Coding
 
-- **生活相关：** [[content/4-Life/0. Life Index|0. Life Index]]          
+- **生活相关：** [[content/5-Life/0. Life Index|0. Life Index]]          
 	**Tag：** Life、Read、Watch、随笔
 
 最后，希望我能坚持写下来吧。毕竟产出是很重要的，而且我也没什么事情做。

@@ -1,9 +1,10 @@
 [
   "easy-typing-obsidian",
-  "file-tree-alternative",
-  "note-refactor-obsidian",
-  "cmenu-plugin",
+  "obsidian-weread-plugin",
   "quick-latex",
+  "obsidian-style-settings",
+  "note-refactor-obsidian",
   "obsidian-custom-frames",
-  "obsidian-weread-plugin"
+  "cmenu-plugin",
+  "file-tree-alternative"
 ]
