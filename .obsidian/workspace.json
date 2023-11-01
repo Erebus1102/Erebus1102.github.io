@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c2e4a873e8f9b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/2-Strategy/1. 科技硬件行业分析框架.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,10 +157,18 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0c2e4a873e8f9b8c",
+  "active": "1eafb4d59bd74b6a",
   "lastOpenFiles": [
-    "未命名 2.md",
+    "content/1-Crypto/Research - NFT借贷赛道行业研究报告.md",
+    "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
     "content/2-Strategy/1. 科技硬件行业分析框架.md",
+    "content/2-Strategy/2. 项目启动汇报技巧及阶段性汇报技巧.md",
+    "content/1-Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
+    "content/1-Crypto/2. 稳定币与借贷需求 Stablecoin and Lending Protocols.md",
+    "content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
+    "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
+    "content/1-Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
+    "未命名 2.md",
     "未命名 1.md",
     "content/notes/images/截屏2023-10-16 13.44.18.png",
     "content/2-Strategy/0. Product&Strategy Index.md",
@@ -183,13 +178,6 @@
     "content/4-Study/IO 分析.md",
     "content/4-Study/IHS Markit 5G Economic modeling.md",
     "content/4-Study/Fundamentals of Communications Networks.md",
-    "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
-    "content/1-Crypto/2. 稳定币与借贷需求 Stablecoin and Lending Protocols.md",
-    "content/1-Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
-    "content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
-    "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
-    "content/1-Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
-    "content/1-Crypto/Research - NFT借贷赛道行业研究报告.md",
     "content/1-Crypto/0. Crypto Index.md",
     "content/notes/images/Pasted image 20230801140500.png",
     "content/4-Study/投入产出分析.md",
@@ -202,7 +190,6 @@
     "content/4-Study",
     "content/3-Code/python爬虫库的使用.md",
     "content/3-Code/python爬虫前，抓包.md",
-    "content/2-Strategy/2. 项目启动汇报技巧及阶段性汇报技巧.md",
     "未命名.md",
     "content/5-Life/Read/原则：应对变化中的世界秩序.md",
     "content/5-Life/Read",
