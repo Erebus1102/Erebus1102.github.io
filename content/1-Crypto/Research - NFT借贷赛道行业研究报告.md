@@ -1,9 +1,9 @@
 ---
 title: "NFT Lending: An in-depth Analysis of Market Dynamics, Risk, Landscape, and Future Prospects"
 tags:
-- Web 3.0
-- Crypto
-- Financial Transaction
+  - Crypto
+  - Financial
+  - Transaction
 ---
 概念：
 1. NFT 借贷
