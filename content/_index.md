@@ -32,13 +32,13 @@ enableToc: false
 - **加密货币及加密货币交易相关：** [[content/1-Crypto/0. Crypto Index|Crypto Index]]     
 	**Tag：** Web 3.0、Crypto、Financial Transaction
 
-- **战略、产品相关：** [[content/2-Strategy/0. Product&Strategy Index|0. Product&Strategy Index]]     
+- **战略、产品相关：** [[content/2-Product&Strategy/0. Product&Strategy Index|0. Product&Strategy Index]]     
 	**Tag：** Work、Product、Strategy
 
-- **技术相关：**[[content/3-Code/0. Coding Index|0. Coding Index]]      
+- **技术相关：**[[content/3-AI & Computing Science/0. Coding Index|0. Coding Index]]      
 	**Tag：** Coding
 
-- **生活相关：** [[content/5-Life/0. Life Index|0. Life Index]]          
+- **生活相关：** [[content/4-Life & Read/0. Life&Read Index|0. Life&Read Index]]          
 	**Tag：** Life、Read、Watch、随笔
 
 最后，希望我能坚持写下来吧。毕竟产出是很重要的，而且我也没什么事情做。

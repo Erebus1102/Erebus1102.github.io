@@ -14,7 +14,7 @@ tags:
 	![500][content/notes/images/1-5-2.png]
 ## 1.2. K线的分类及特点
 >[!TIP] 任何 k 线形态代表的意义只是反应统计学层面的可能性，很多去制定交易计划的时候要参考非常多的变量
->由于在不同时间周期双 K 线或者多根 K 线会变成单 K 线，因此**为了排除无效信息最好选择一小时以上的尺度进行判断**，具体可见 [[content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis#2. Price Trajectory 价格运行轨迹|2. 价格运行轨迹]]
+>由于在不同时间周期双 K 线或者多根 K 线会变成单 K 线，因此**为了排除无效信息最好选择一小时以上的尺度进行判断**，具体可见 [[content/1-Crypto/Intro - 3 - 蜡烛图与技术分析基础（Basic）#2. Price Trajectory 价格运行轨迹|2. 价格运行轨迹]]
 ### 1.2.1. Single Candlestick Patterns 单根 K 线
 #### 趋势性 K 线 ：
 ##### 大阳线/大阴线
