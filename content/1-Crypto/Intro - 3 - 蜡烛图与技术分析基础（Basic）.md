@@ -327,8 +327,6 @@ $$
 ## Time 运行波段的时间
 	【玄学】
 
-
-
 ---
 
 # 7. Wyckoff Trading Tools
@@ -509,4 +507,5 @@ Mind（心态管理）、Money（资金管理）、Market（仓位管理）
 * 《海龟交易法》
 * 《交易心理分析》
 
-BackLink: [[content/1-Crypto/0. Crypto Index|Crypto Index]]
+---
+BackLink： [[content/1-Crypto/0. Crypto Index|0. Crypto Index]]]]

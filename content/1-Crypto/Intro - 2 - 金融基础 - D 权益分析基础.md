@@ -13,3 +13,6 @@
 # 12. 行为金融
 # 13. 股息估值模型 DCF
 # 14. 价格倍数估值
+
+---
+BackLink： [[content/1-Crypto/0. Crypto Index|0. Crypto Index]]

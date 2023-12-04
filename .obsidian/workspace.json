@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1-Crypto/Intro - 1 - Web 3.0信息简述.md",
+                "file": "content/1-Crypto/Product - 1 - Defi蓝筹 & 稳定币.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1-Crypto/Intro - 1 - Web 3.0信息简述.md",
+                "file": "content/1-Crypto/Product - 1 - Defi蓝筹 & 稳定币.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1-Crypto/Intro - 1 - Web 3.0信息简述.md",
+                "file": "content/1-Crypto/Product - 1 - Defi蓝筹 & 稳定币.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1-Crypto/Intro - 1 - Web 3.0信息简述.md"
+                "file": "content/1-Crypto/Product - 1 - Defi蓝筹 & 稳定币.md"
               }
             }
           }
@@ -159,30 +159,30 @@
   },
   "active": "33583d7d20fb4434",
   "lastOpenFiles": [
-    "content/1-Crypto/S - 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
-    "content/1-Crypto/Intro - 1 - Web 3.0信息简述.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - A 财务分析基础.md",
     "content/1-Crypto/0. Crypto Index.md",
-    "content/1-Crypto/Product - 1 - Defi蓝筹&稳定币.md",
     "content/1-Crypto/S - Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
-    "content/1-Crypto/Intro - 5 - Web 3.0相关职业岗位与工作内容.md",
-    "content/1-Crypto/Intro - 4 - 加密货币量化交易.md",
-    "content/1-Crypto/S - Fundamentals of Cryptography and BTC mining data analysis.md",
-    "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
+    "content/1-Crypto/S - 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
     "content/1-Crypto/Product - 4 - 区块链技术原理.md",
-    "content/1-Crypto/Practice - 3 - 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
-    "content/1-Crypto/Practice - 4 - 链上数据分析.md",
+    "content/1-Crypto/Product - 3 - Tokenomics Design.md",
+    "content/1-Crypto/Product - 2 - RWA & NFT & Gamefi.md",
+    "content/1-Crypto/Product - 1 - Defi蓝筹 & 稳定币.md",
     "content/1-Crypto/Practice - 6 - 币圈量化交易进阶.md",
     "content/1-Crypto/Practice - 5 - K线技术分析进阶.md",
+    "content/1-Crypto/Practice - 4 - 链上数据分析.md",
+    "content/1-Crypto/Practice - 3 - 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
     "content/1-Crypto/Practice - 2 - 代币价格上涨驱动因素.md",
+    "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
+    "content/1-Crypto/Intro - 5 - Web 3.0相关职业岗位与工作内容.md",
+    "content/1-Crypto/Intro - 4 - 加密货币量化交易.md",
     "content/1-Crypto/Intro - 3 - 蜡烛图与技术分析基础（Basic）.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - F 投资组合管理入门.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - E 什么是衍生品.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - D 权益分析基础.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - C 债务分析基础.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - B 经济 101 入门.md",
-    "content/1-Crypto/Product - 3 - Tokenomics Design.md",
-    "content/1-Crypto/Product - 2 - RWA & NFT & Gamefi.md",
+    "content/1-Crypto/Intro - 1 - Web 3.0信息简述.md",
+    "content/1-Crypto/S - Fundamentals of Cryptography and BTC mining data analysis.md",
     "content/4-Life & Read/0. Life&Read Index.md",
     "content/5-Life/About Sex.md",
     "content/notes/images/4.4.4.png",

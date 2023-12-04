@@ -30,3 +30,6 @@ But\ Knowpools\ is\ different
 ![[content/notes/images/Pasted image 20230702124337.png]]
 ![[content/notes/images/Pasted image 20230702124352.png]]
 
+
+---
+BackLink： [[content/1-Crypto/0. Crypto Index|0. Crypto Index]]

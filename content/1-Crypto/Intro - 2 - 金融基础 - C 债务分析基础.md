@@ -24,3 +24,6 @@ $$
 - 公式： 股票价格（当前币价） / 每股收益（EPS）
 2. Tips： - Tips 1： 使用可比估值法（同赛道的 EPS、P/E）来判断标的价格。 - Tips 2： 注意 P/E 本身在牛熊市会有周期性变化。 - Tips 3： 市盈率高低可能意味着不同的市场情绪和风险。 --- Crypto 应用的复杂性 1. 收益定义难度 2. 早期非盈利性项目分析 3. 高波动性 4. 代币的多重功能其他可评估的指标（财务比率）： - 市值： 代币当前市场价格 * 总流通量。 - 代币经济学（tokenomics） - 项目基础和应用： 技术壁垒、生态壁垒、合作伙伴等。 --- ROE（股东权益收益率） - 公式： ROE = Net income / equity - 重要性： 衡量公司盈利能力的关键指标。 --- 杜邦分析 DuPont - 公式： ROE = Net profit margin * Total asset turnover * Financial leverage ratio 借鉴到 crypto 项目中的替代指标： 1. 净利润率替代指标： 代币价值驱动因素，费用结构等。 2. 资产周转率替代指标： 交易活跃度，生态系统扩展速度。 3. 权益乘数替代指标： 杠杆效应，锁仓与释放策略。
 # 4. 其他债务产品
+
+---
+BackLink： [[content/1-Crypto/0. Crypto Index|0. Crypto Index]]

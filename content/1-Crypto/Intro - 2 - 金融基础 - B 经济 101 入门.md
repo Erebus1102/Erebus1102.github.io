@@ -8,3 +8,6 @@
 ## 3.2. 虚拟货币市场
 
 # 4. 通货膨胀与通货紧缩
+
+---
+BackLink： [[content/1-Crypto/0. Crypto Index|0. Crypto Index]]

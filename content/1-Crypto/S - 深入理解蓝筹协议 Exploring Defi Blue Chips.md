@@ -458,4 +458,5 @@ Votium 是 Convex 的一个贿赂平台，用户只需要持有 vlCVX，协议�
 ## SNX (Kwenta)
 ## DYDX
 
-BackLink: [[content/1-Crypto/0. Crypto Index|Crypto Index]]
+---
+BackLink： [[content/1-Crypto/0. Crypto Index|0. Crypto Index]]
