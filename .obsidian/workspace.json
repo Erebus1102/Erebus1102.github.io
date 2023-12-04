@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0c0088740a1f71",
+        "id": "02162f69a743526d",
         "type": "tabs",
-        "dimension": 76.13636363636364,
         "children": [
           {
-            "id": "1eafb4d59bd74b6a",
+            "id": "33583d7d20fb4434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
+                "file": "content/1-Crypto/1. 金融基础 - A 财务分析基础.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
-            },
-            "group": "b8f8f41ff22acdd8"
-          }
-        ]
-      },
-      {
-        "id": "6b2a1beed3cdf425",
-        "type": "tabs",
-        "dimension": 23.863636363636363,
-        "children": [
-          {
-            "id": "67faa0a78fb348ae",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md"
-              }
-            },
-            "group": "b8f8f41ff22acdd8"
+            }
           }
         ]
       }
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
+                "file": "content/1-Crypto/1. 金融基础 - A 财务分析基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
+                "file": "content/1-Crypto/1. 金融基础 - A 财务分析基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,16 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md"
+                "file": "content/1-Crypto/1. 金融基础 - A 财务分析基础.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,17 +157,34 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1eafb4d59bd74b6a",
+  "active": "33583d7d20fb4434",
   "lastOpenFiles": [
+    "content/1-Crypto/1. 金融基础 - F 投资组合管理入门.md",
+    "content/1-Crypto/1. 金融基础 - E 什么是衍生品.md",
+    "content/1-Crypto/1. 金融基础 - D 权益分析基础.md",
+    "content/1-Crypto/1. 金融基础 - A 财务分析基础.md",
+    "content/1-Crypto/1. 金融基础 - B 经济 101 入门.md",
+    "content/1-Crypto/1. 金融基础 - C 债务分析基础.md",
+    "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
+    "content/1-Crypto/Research - NFT借贷赛道行业研究报告.md",
+    "content/1-Crypto/6. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
+    "content/1-Crypto/4. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
+    "content/1-Crypto/5. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
+    "content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
+    "content/1-Crypto/2. 加密货币量化交易.md",
+    "content/notes/images/4.4.4.png",
+    "[.md",
+    "content/notes/images/4.4.3.png",
+    "content/notes/images/4.4.1.png",
+    "1685886012339.png.md",
+    "Pasted image 20230604204307.png.md",
+    "content/notes/images/1-5-2.png",
+    "().md",
+    "content/notes/images/1-5-1.png",
+    "Pasted image 20230601181824.png.md",
     "content/1-Crypto/2. 稳定币与借贷需求 Stablecoin and Lending Protocols.md",
-    "content/1-Crypto/2. 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
     "content/notes/images/1698854626393.png",
     "content/1-Crypto/0. Crypto Index.md",
-    "content/1-Crypto/Research - NFT借贷赛道行业研究报告.md",
-    "content/1-Crypto/4. Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
-    "content/1-Crypto/7. Fundamentals of Cryptography and BTC mining data analysis.md",
-    "content/1-Crypto/3. 蜡烛图与技术分析 Candlestick chart Technical Analysis.md",
-    "content/1-Crypto/1. 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
     "content/2-Strategy/1. 科技硬件行业分析框架.md",
     "content/2-Strategy/2. 项目启动汇报技巧及阶段性汇报技巧.md",
     "未命名 2.md",
@@ -196,27 +192,11 @@
     "content/notes/images/截屏2023-10-16 13.44.18.png",
     "content/2-Strategy/0. Product&Strategy Index.md",
     "content/5-Life/0. Life Index.md",
-    "content/5-Life/About Sex.md",
-    "content/4-Study/tmforum - Autonomous  networks 白皮书.md",
-    "content/4-Study/IO 分析.md",
-    "content/4-Study/IHS Markit 5G Economic modeling.md",
-    "content/4-Study/Fundamentals of Communications Networks.md",
     "content/notes/images/Pasted image 20230801140500.png",
-    "content/4-Study/投入产出分析.md",
     "content/notes/images/Pasted image 20230801123330.png",
     "content/notes/images/Pasted image 20230801100623.png",
-    "content/notes/images/截屏2023-08-01 10.06.03.png",
-    "content/4-Study/0. Study Index.md",
-    "content/notes/images/Pasted image 20230724110950.png",
-    "content/3-Code/0. Coding Index.md",
     "content/4-Study",
-    "content/3-Code/python爬虫库的使用.md",
-    "content/3-Code/python爬虫前，抓包.md",
-    "未命名.md",
     "content/5-Life/Read",
-    "Pasted image 20230627130421.png",
-    "screenshot.png",
-    "content/notes/images/Pasted image 20230702125611.png",
     "content/5-Life",
     "content/2-Strategy",
     "content/3-Code",
