@@ -35,7 +35,7 @@ enableToc: false
 - **战略、产品相关：** [[content/2-Product&Strategy/0. Product&Strategy Index|0. Product&Strategy Index]]     
 	**Tag：** Work、Product、Strategy
 
-- **技术相关：**[[content/3-AI & Computing Science/0. Coding Index|0. Coding Index]]      
+- **技术相关：**[[content/3-AI & Computing Science/0. AI & Computing Index|0. AI & Computing Index]]      
 	**Tag：** Coding
 
 - **生活相关：** [[content/4-Life & Read/0. Life&Read Index|0. Life&Read Index]]          
