@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1-Crypto/Product - 4 - NFT & Gamefi.md",
+                "file": "content/1-Crypto/0. Crypto Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1-Crypto/Product - 4 - NFT & Gamefi.md",
+                "file": "content/1-Crypto/0. Crypto Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1-Crypto/Product - 4 - NFT & Gamefi.md",
+                "file": "content/1-Crypto/0. Crypto Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1-Crypto/Product - 4 - NFT & Gamefi.md"
+                "file": "content/1-Crypto/0. Crypto Index.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "6d776f25b22161f3",
   "lastOpenFiles": [
+    "content/1-Crypto/Product - 4 - NFT & Gamefi.md",
     "content/1-Crypto/Product - 6 - 区块链技术原理.md",
     "content/1-Crypto/Product - 5 - Tokenomics Design.md",
-    "content/1-Crypto/Product - 4 - NFT & Gamefi.md",
     "content/1-Crypto/Product - 3 - RWA.md",
     "content/1-Crypto/Product - 2 - 稳定币-2.md",
     "content/1-Crypto/Product - 2 - 稳定币-1.md",
