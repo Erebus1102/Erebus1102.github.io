@@ -1,3 +1,10 @@
+---
+title: Product - 5 - Tokenomics Design
+tags:
+  - Crypto
+  - Financial
+  - Transaction
+---
 # 0. 什么是代币经济学
 **代币经济学关注的重点：** 代币供给、需求、分布、激励、用途、治理、货币政策等等
 # 1. 为什么代币经济学重要

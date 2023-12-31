@@ -1,4 +1,10 @@
-
+---
+title: Intro - 2 - 金融基础 - A 财务分析基础
+tags:
+  - Crypto
+  - Financial
+  - Transaction
+---
 # 1. 基本面分析 (Fundamental Analysis)
 - 定义： 用于确定资产和投资内在价值的分析方法。
 - 涉及范围： 财务报表、所处行业、管理团队、未来与潜在影响因素

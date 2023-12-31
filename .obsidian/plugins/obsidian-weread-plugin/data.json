@@ -14,11 +14,11 @@
     },
     {
       "name": "wr_skey",
-      "value": "yX5e3OkK"
+      "value": "dGeEATrH"
     },
     {
       "name": "wr_pf",
-      "value": "undefined"
+      "value": "NaN"
     },
     {
       "name": "wr_rt",
@@ -46,7 +46,7 @@
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": 1689519000695,
+  "lastCookieTime": 1704001268934,
   "isCookieValid": true,
   "user": "Erebus.",
   "userVid": "506404564",

@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Yin and Yang",
   "translucency": true,
-  "baseFontSize": 30
+  "baseFontSize": 30,
+  "theme": "obsidian"
 }
