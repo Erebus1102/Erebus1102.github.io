@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md",
+                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2620d4d6f53c5e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md",
+                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md",
+                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1-Crypto/0. Crypto Index.md"
+                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md"
               }
             }
           }
@@ -158,35 +171,37 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "6d776f25b22161f3",
+  "active": "2620d4d6f53c5e9e",
   "lastOpenFiles": [
-    "content/1-Crypto/Product - 4 - NFT & Gamefi.md",
-    "content/1-Crypto/Product - 6 - 区块链技术原理.md",
-    "content/1-Crypto/Product - 5 - Tokenomics Design.md",
-    "content/1-Crypto/Product - 3 - RWA.md",
-    "content/1-Crypto/Product - 2 - 稳定币-2.md",
-    "content/1-Crypto/Product - 2 - 稳定币-1.md",
-    "content/1-Crypto/Product - 1 - Defi蓝筹.md",
-    "content/1-Crypto/Practice - 6 - 币圈量化交易进阶.md",
-    "content/1-Crypto/Practice - 5 - K线技术分析进阶.md",
-    "content/1-Crypto/Practice - 4 - 链上数据分析.md",
-    "content/1-Crypto/Practice - 3 - 研报攥写与估值 Analysis Report Writing and Valuation Academy.md",
-    "content/1-Crypto/Practice - 2 - 代币价格上涨驱动因素.md",
-    "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
-    "content/1-Crypto/Intro - 4 - 加密货币量化交易.md",
     "content/1-Crypto/Intro - 5 - Web 3.0相关职业岗位与工作内容.md",
+    "content/1-Crypto/Intro - 4 - 加密货币量化交易.md",
+    "content/1-Crypto/Practice - 6 - 链上数据分析.md",
+    "content/1-Crypto/Practice - 4 - 估值模型.md",
+    "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
     "content/1-Crypto/Intro - 3 - 蜡烛图与技术分析基础（Basic）.md",
-    "content/1-Crypto/Intro - 2 - 金融基础 - F 投资组合管理入门.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - E 什么是衍生品.md",
+    "content/1-Crypto/Intro - 2 - 金融基础 - F 投资组合管理入门.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - D 权益分析基础.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - C 债务分析基础.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - B 经济 101 入门.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - A 财务分析基础.md",
     "content/1-Crypto/Intro - 1 - Web 3.0信息简述.md",
+    "content/1-Crypto/0. Crypto Index.md",
+    "content/1-Crypto/Product - 6 - 区块链技术原理.md",
+    "content/1-Crypto/Product - 5 - Tokenomics Design.md",
+    "content/1-Crypto/Product - 4 - NFT & Gamefi.md",
+    "content/1-Crypto/Product - 3 - RWA.md",
+    "content/1-Crypto/Product - 2 - 稳定币-2.md",
+    "content/1-Crypto/Product - 2 - 稳定币-1.md",
+    "content/1-Crypto/Product - 1 - Defi蓝筹.md",
+    "content/1-Crypto/Practice - 8 - 币圈量化交易进阶.md",
+    "content/1-Crypto/Practice - 7 - K线技术分析进阶.md",
+    "content/1-Crypto/Practice - 2 - 代币价格上涨驱动因素.md",
+    "content/1-Crypto/Practice - 3 - 研报攥写.md",
+    "content/notes/images/Pasted image 20240101104503.png",
+    "content/notes/images/1704076418648.png",
     "content/1-Crypto/S - 深入理解蓝筹协议 Exploring Defi Blue Chips.md",
-    "content/1-Crypto/S - Layer 1 基础设施 Fundamentals of Layer 1 Blockchain.md",
     "content/notes/images/1704017915286.png",
-    "content/2-Product&Strategy/2023-10 科技硬件行业分析框架.md",
     "content/4-Life/微信读书",
     "content/4-Life",
     "content/notes/images/Gryphsis Academy - 区块链技术原理.pdf",
@@ -197,8 +212,6 @@
     "content/notes/images/截屏2023-12-24 12.03.38.png",
     "content/notes/images/截屏2023-12-24 11.58.37.png",
     "content/notes/images/截屏2023-12-24 11.54.35.png",
-    "content/notes/images/截屏2023-12-23 17.51.31.png",
-    "content/notes/images/截屏2023-12-18 15.03.52.png",
     "content/4-Study",
     "content/4-Life & Read/Read",
     "content/4-Life & Read",

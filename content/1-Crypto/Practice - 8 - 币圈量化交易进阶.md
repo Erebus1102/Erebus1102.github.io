@@ -1,8 +1,8 @@
 ---
-title: 研报攥写与估值
+title: Practice - 8 - 币圈量化交易进阶
 tags:
-  - Crypto
   - Financial
+  - Crypto
   - Transaction
 ---
 

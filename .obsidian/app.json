@@ -3,5 +3,12 @@
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "content/notes/images",
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }
