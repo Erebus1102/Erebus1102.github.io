@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
+                "file": "content/1-Crypto/Practice - 6 - 链上数据分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
+                "file": "content/1-Crypto/Practice - 6 - 链上数据分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
+                "file": "content/1-Crypto/Practice - 6 - 链上数据分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md"
+                "file": "content/1-Crypto/Practice - 6 - 链上数据分析.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "2620d4d6f53c5e9e",
   "lastOpenFiles": [
+    "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
     "content/1-Crypto/Intro - 5 - Web 3.0相关职业岗位与工作内容.md",
     "content/1-Crypto/Intro - 4 - 加密货币量化交易.md",
     "content/1-Crypto/Practice - 6 - 链上数据分析.md",
     "content/1-Crypto/Practice - 4 - 估值模型.md",
-    "content/1-Crypto/Practice - 1 - 比特币挖矿数据分析.md",
     "content/1-Crypto/Intro - 3 - 蜡烛图与技术分析基础（Basic）.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - E 什么是衍生品.md",
     "content/1-Crypto/Intro - 2 - 金融基础 - F 投资组合管理入门.md",
